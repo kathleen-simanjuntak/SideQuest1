@@ -1,4 +1,4 @@
-# SideQuest
+# SideQuest by Her Code
 SideQuest is an application that aims to swap passive scrolling for spontaneous, real-world activities with others. Whenever users feel burnt out from school or work, or simply want to try something new, SideQuest can help come up with exciting activity ideas for them to try! 
 
 The activities it generates will cater to user's personal condition, including their budget, mood, available time, or the amount of people. Whatever the circumstances, SideQuest helps user find something that fits for the occasion!
