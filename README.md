@@ -1,39 +1,13 @@
-# SideQuest / WITinerary
+# SideQuest
+SideQuest is an application that aims to swap passive scrolling for spontaneous, real-world activities with others. Whenever users feel burnt out from school or work, or simply want to try something new, SideQuest can help come up with exciting activity ideas for them to try! 
 
-A mobile-first hackathon prototype for the **Connect Outside** track. SideQuest helps people swap passive scrolling for spontaneous, real-world activities with others.
+The activities it generates will cater to user's personal condition, including their budget, mood, available time, or the amount of people. Whatever the circumstances, SideQuest helps user find something that fits for the occasion!
 
-## Run locally
+For each activity that a user completes, SideQuest will give them points and badges, which allows users to track their progress and stay motivated to explore outside more. In addition, users can take photos whilst on their quest and is then saved by the app in a little journal section as a collection of memories they can look back on anytime. 
 
-```bash
-npm install
-npm run dev
-```
+# How We Built It
+In this project, we primarily focused on creating a clean, intuitive and playful user experience. We explored possible layouts, concepts and color palates on Figma before then making it into life with '''''
 
-Open the local address shown in your terminal.
-
-## Tech stack
-
-- React
-- Vite via the Vinext runtime
-- TypeScript
-- Plain CSS
-- Lucide React icons
-- Browser localStorage for lightweight persistence
-
-## Features
-
-- Warm, mobile-first landing experience
-- Configurable quest generator and generated quest checklist
-- Joinable nearby activities with persistent status
-- Quest activation and XP progression
-- Journal with badges and a horizontally scrolling memory lane
-- Responsive floating bottom navigation
-
-## Credits
-
-Visual direction follows the supplied SideQuest/WITinerary reference design. Icons are provided by [Lucide](https://lucide.dev/).
-
-## AI usage
-
-OpenAI ChatGPT/Codex was used for code-generation assistance, debugging, UI implementation guidance, and brainstorming copy and interactions. The project was designed and directed by its human creator; AI was used as a collaborative development tool, not as an independent project author.
+# How it relates to Track "Connect Outside"
+Our application encourages users to step away from their daily routines and create meaningful experience in the real world. It gives users a reason or incentive to go outside and try something new with people around them. Each activities they complete allows them to maintain or build friendships and overall create meaningful memories beyond the screens they see everyday. 
 
